@@ -1,4 +1,4 @@
-# HackerrankSolutions
+# HackerRank Solutions
 
 This repository contains my python solutions for Hackerrank challenges in Jupyter notebook format. 
 
